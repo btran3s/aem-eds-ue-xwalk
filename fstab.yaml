@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p153710-e1614654.adobeaemcloud.com"
+    url: "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/btran3s/aem-eds-ue-xwalk/main""
     type: "markup"
     suffix: ".html"
